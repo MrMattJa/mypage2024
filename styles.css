@@ -7,15 +7,6 @@ a{
   font-family: tahoma;
 }
 
-.profile{
-  text-align: center; 
-  margin: 5%; 
-  margin-bottom: 0%;
-  padding: 5%;
-  padding-bottom: 0%;
-  background-color:rgb(236, 236, 236)
-}
-
 img{
   border-radius: 50%;
   width: 18em;
@@ -26,7 +17,14 @@ div {
   unicode-bidi: isolate;
   background-color: rgb(236, 236, 236)
 }
-
+.profile{
+  text-align: center; 
+  margin: 5%; 
+  margin-bottom: 0%;
+  padding: 5%;
+  padding-bottom: 0%;
+  background-color:rgb(236, 236, 236)
+}
 .exp{
   text-align: center; 
   background-color: white; 
